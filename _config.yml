@@ -1,0 +1,7 @@
+# GitHub Pages（https://oto-manami.github.io/about/）の設定
+# README.md がトップ、privacy.md がプライバシーポリシーになる
+title: 大野愛実アーカイブ
+lang: ja
+exclude:
+  - CLAUDE.md
+  - AGENTS.md
