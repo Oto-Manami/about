@@ -75,6 +75,8 @@ flowchart LR
 
 このリポジトリは公開されています。編集は運営者が行います。
 
+情報の扱いは[プライバシーポリシー](privacy.md)をご覧ください。
+
 ---
 
 設計の一部は、[世界新奈プロジェクト](https://github.com/sekai-nina/sekai-nina-project)を参考にしています。
